@@ -1,6 +1,6 @@
-#Blog Post Project
+# Blog Post Project
 
-##Team Members:
+## Team Members:
 1. Aashisha Negi
 2. Amaan Hussain
 3. Malveena Phogat
