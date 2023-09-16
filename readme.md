@@ -1,4 +1,4 @@
-# Blog Post Project
+# TrackVentory
 
 ## Team Members:
 1. Aashisha Negi: 500091664
